@@ -1,0 +1,29 @@
+/* style.css */
+
+.container .text {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255,0,0);
+    background-color: #ffff00;
+}
+
+/* div p {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255,0,0);
+    background-color: #ffff00;
+} */
+
+/* .container p {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255,0,0);
+    background-color: #ffff00;    
+} */
+
+/* div .text {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255,0,0);
+    background-color: #ffff00;
+} */
